@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the ld. mayor &amp; other justices &amp; aldermen of the city of London, the case of the prisoners, commonly called Quakers in the said city, humbly presented</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62783</idno>
+            <idno type="STC">Wing T1564</idno>
+            <idno type="STC">ESTC R38810</idno>
+            <idno type="EEBO-CITATION">18150067</idno>
+            <idno type="OCLC">ocm 18150067</idno>
+            <idno type="VID">106864</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62783)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106864)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1132:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the ld. mayor &amp; other justices &amp; aldermen of the city of London, the case of the prisoners, commonly called Quakers in the said city, humbly presented</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated: From Newgate and Woodstreet Compter, this 5th of the 10th month, 1684.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Imperfect: stained and torn, possibly cropped, with loss of print. Best copy available for photographing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Persecution --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:106864:1"/>
+            <head>To the Ld. Mayor &amp; other Juſtices &amp; Aldermen of the CITY of LONDON. The Caſe of the Priſoners, commonly called <hi>QUAKERS</hi> in the ſaid City, Humbly Preſented: We the ſaid Priſoners, who have nothing but Love and Good will, Sincere and Due Reſpects towards you all, both as Men and Civil Magiſtrates, do Heartily <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Health and Proſperity in Juſtice and Truth.</head>
+            <p>THE Matters which we would humbly preſent to yo<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>rious and tender I conſiderations, are chiefly concerning the Charge <gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſt our peaceable Religious Aſſemblics, in late Indictments rendred <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, &amp;<hi>c,</hi> but in ſome later <hi>Routs &amp; Unlawful Aſſemblies, witb Force &amp; Armss</hi> 
+               <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> &amp; then Fining &amp; Impriſonment till payment; together with a Ju<gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t againſt ſome to <hi>find Sureties for the Good Behaviour.</hi> This cou<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ing been taken, we really conceive the meaſure we have thereby is not only hard, b<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ether unmerited on our parts: We hope you'l give the Looſers and Sufferers leave to <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> without offence.</p>
+            <p>We pray you ſeriouſly conſider, whether the Charge of <hi>Routs,</hi> &amp; <gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n be rationally laid upon our ſaid peaceable Aſſemblies, or they juſtly puniſhable as <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and we there<g ref="char:EOLhyphen"/>upon to be thus cloſely confined and fined, as <hi>Perſons Routous</hi> &amp;c. <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> legal definition <hi>Routs</hi> as given by allowed Authorities. <q>As an Unlawful Aſſem<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in Common Law, is, of the Company of three or more Perſons, diſorderly coming together, with <hi>Intention Forceably</hi> to commit an unlawful Act; as to beat a <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, or to enter upon his Poſſeſſion, cut or deſtroy his Corn or Graſs, or ſuch like. So a <hi>Roust</hi> is when ſuch Aſſembly <hi>Moveth,</hi> going or riding forward, to commit by force ſuch unlawful Act, to the injury of the Perſon or Poſſeſion of another. And then a <hi>Riot</hi> is when they do execute the ſame, uſing threatening words, furious geſtures, and other Force and Armes, to the <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>errour of the people, wherein there is ſome apparent diſturbance of the publick Peace, either by ſignification of Speech, ſhew of Armour, turbulent Geſtore, or actual and expreſs Violence, &amp;c.</q> In which definition, both <hi>W. Lambard</hi> in his Eirenar<g ref="char:EOLhyphen"/>cha, the Lord <hi>Cook</hi> in his Inſtitutes 3d.pt. and <hi>Mich. Dalton</hi> in his Juſtice of Peace, under thoſe titles of <hi>Riots, Routs, Breach of the</hi> Pe<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, and <hi>Unlawful Aſſem<g ref="char:EOLhyphen"/>blies,</hi> &amp;c. with many other Authorities do agree.</p>
+            <p>
+               <gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>V. <hi>Lam<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rd,</hi> Eirin. 1. 2.p. 175, 176. 177. &amp; <hi>Cook</hi> Inſt. 3 pt. ch. I. f.9. &amp; ch. 79. f 176. <hi>Dal.</hi> tit. Riots, Routs. &amp;c.</p>
+            <p>Pray obſerve in caſe of a <hi>Rout</hi>; Suppoſe a Company of Rude Perſons met to contrive ſome Miſchief or Injury againſt the Perſons, Goods or Poſſeſſons of their Neighbours, and moving forward with Clubs or any offenſive Weapons, to <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mit the <hi>Riot</hi> deſign<g ref="char:EOLhyphen"/>ed and thoſe ſhould be apprehended in their Motion, before the act be committed, and then Indicted for a Rout &amp; Unlawful Aſſembly, &amp;c. the Queſtion is, <hi>Whether the Indict<g ref="char:EOLhyphen"/>ment framed againſt theſe, be not in the ſame manner and form, or mostly of the ſame kind, with theſe Indictments againſt us, for our Religious Meetings to Pray to God &amp;c. what Book-Caſe or Preſident in Common Law or Equily can Parallel theſe, or warrant the la<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>Now we can Appeal, 1ſt, To Almighty God, who knows our Hearts and ſecret Inten<g ref="char:EOLhyphen"/>tions, that our Religious Aſſemblies are with no ſuch Injurious Intentions; And to the Conſciences of our indifferent Neighbours and Spectators, that our Meetings have never given them occaſion to think, that ever we intended and ſuch <hi>Injury</hi> or <hi>Force,</hi> either by <hi>Motion, Action</hi> or <hi>Weapon,</hi> nor can any ſuch thing be atteſted againſt us. And we doubt not but all unprejudiced Jurors, our Neighbours do underſtand that our Meetings are up<g ref="char:EOLhyphen"/>on no ſuch in urious account, but on a Religious account, for <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> towards Almighty God. And therefore how can it be juſt or reaſonable any Ju<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ould be unpoſed upon, to find us Guilty, either of <hi>Routs, Riots,</hi> or <hi>Unlawful Aſſembles</hi> as before deſcribed, to bring Guilt, Danger or Damnation upon their own Souls: Who as they are not to be Menaced into a Verdict, ſo not to be Fined nor Impriſoned for <hi>finding according to their Con<g ref="char:EOLhyphen"/>ſciences,</hi> though it may ſeem not conſiſtent with the Evidence or Direction of the Court, according to the Lord <hi>Vaugban's</hi> Reports in <hi>Buſhel</hi>'s Caſe, in the <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Year of K. <hi>Charles</hi> 2. fol. 143, &amp; 153. <q>For (ſaith he) the Jury may know the Witneſſes to be Stigmatized and Infamous, which may be unknown to the Parties, and <hi>conſequenly to the Court.</hi>
+               </q> And fur<g ref="char:EOLhyphen"/>ther ſaith fol. 143. (in the ſame caſe) <q>If the Judge from the Evidence ſhall by his own Judgment, firſt reſolve upon any tryal what the Facts is, and ſo knowing the Fact, ſhall then reſolve what the Law is, and order the Jury Penalty to find accordingly; What either neceſſary or convenient uſe can be fancied of Jury, or to continue <hi>Tryals by them at all?</hi>
+               </q> Thus far the Learned Judge <hi>Vanghan</hi> argues the caſe in behalf of the Jury, having not found <hi>Penn</hi> and <hi>Mead</hi> guilty of a <hi>Treſpaſs, Unlawful Aſſembly, Rout</hi> and <hi>Tumult,</hi> &amp;c. whereof they ſtood Indicted, not withſtanding they were taken and indicted on occaſion of ſuch a Religious Meeting, as theſe for which we now ſuffer<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> yet the Jury in Conſcience could not find them Guilty of a <hi>Rout</hi> or <hi>Riot</hi> &amp;c. Who being therefore Fined <hi>Forty Marks a Men, and Committed to Priſon,</hi> the ſaid Judge <hi>Vaughan</hi> vindicated the Jury, and oppoſed ſuch proceeding againſt them; to which the reſt of the Judges at <hi>Weſtminſter,</hi> who were preſent at the Argument, agreed.</p>
+            <p>Beſides, that is a Remarkable Paſſage of K. Charles 1ſt in his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> where he ſaith in his Prayer (viz) <q>
+                  <hi>Make them at length ſeriously to Conſider, that nothing Violent or Injurious can be Religious.</hi>
+               </q> which may be conſidered and app<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ved ſeveral wayes. 1ſt. our Aſſemblyes being generally believed and known to he religious and peaceable on our parts, are therefore no <hi>Routs, Riots,</hi> or <hi>unlawfull Aſſemblyes,</hi> where in either violence or injury is Intended or acted. 2ly. <hi>If nothing Violent or injurious can be Religious</hi>; Then with what conſcience can any Judge our Religious quiet Meeting, <hi>Rout<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or Riots.</hi> 3ly. How can the violence and injury then done to us, both againſt our ſaid M<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gs againſt our Perſons by cloſe Confinment, and againſt our Eſtates by Spoil, be Rel<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ous or Chriſtian? Nay are not ſuch Severities rather Reproach to Chriſtianity.</p>
+            <p>Laſtly whereas ſome of us, beſides our Fines and imp<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>s, are ſentenced to find <hi>Saretyes for the good behaviour,</hi> or elſe to be continued in <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> We intreat you to con<g ref="char:EOLhyphen"/>ſider, in what caſes <hi>Surety for the good behaviour,</hi> is to be granted, according to Common Law and Jaſtice.</p>
+            <p>Pray Obſerve, <q>
+                  <hi>It is chiefly</hi> to be granted againſt Common Barretours, common Quar<g ref="char:EOLhyphen"/>rellers, Rioters, ſuch as ly in wait to Rob, or ſhall be ſuſpected for that cauſe, or ſhall aſſault or attempt to robb, or are generally feared or ſuſpected to be robbers by the high-way and againſt ſuch as are like to commit Murder, homicide and other grievances &amp;c. and againſt ſuch as ſhall practiſe to Poiſon another, and againſt ſuch as be of evil name and ſame, as for reſorting to houſes ſuſpected to maintain Adultery or incontinency, and againſt the maintainers of houſes commonly ſuſpected for Bawdery, and againſt common whoremongers and common whores, and againſt night-walkers, ſuſpected to be pilferers &amp;c. And againſt Eves-droppers, and ſuch Night walkers that caſt mens Gates and Carts into Ponds &amp;c. ſuſpected perſons who live idly, common haunters of Alehouſes and Taverns, common Drunkards &amp;c. ſuch as <hi>go in the Meſſage of Thieves</hi> &amp;c.</q> As you may ſee at large in M. Dal<g ref="char:EOLhyphen"/>tons <hi>Juſtice of Peace,</hi> under the Title, <hi>urety for the good behaviour,</hi> grounded on other Autho<g ref="char:EOLhyphen"/>rities.</p>
+            <p>Now pray Conſider theſe things between God and your own Conſciences, ſeeing neither We nor our Aſſemblyes are under any of theſe criminal circumſtances, what parity can there be between theſe crimes, misbehaviours or enormities, and our Peaceable Meeting in Spirit and Truth, to pray worſhip and praiſe Almighty God that made us, according to our tender Conſciences? which both the Holy Scriptures, &amp; conſequently the Liturgy of the Church of England require and Warrant without exception of Perſons or places? And what Book-caſe or preſident in Common Law and Juſtice can be produced either to prove ſuch Meettings <hi>Routs,</hi> or to <hi>Fine, Impriſon,</hi> or require <hi>Suretyes for the good Behaviour,</hi> for praying to God, or peaceably Worſhipping him in our Religious Aſſemblies, according to our Faith and Perſwaſions, without any intention or overt-Act of Violence or Injury either to the Government, or to any perſon or property of another whatſoever. The Righteous Judge of all knowes our Innocency in theſe matters.</p>
+            <p>The premiſes Conſidered, We do in Chriſtian humility intreat you, not to detain us under cloſe Conſinment to the impairing our health, endangering our Lives, and Ruining our Diſtreſſed Families. And we further Requeſt you, not to Sentence any more of us to find Suretyes for the Good behaviour (for our quietly Meeting to Worſhip God), and to diſcharge thoſe of us, who are under the ſame Sentence. God preſerve and direct you.</p>
+            <closer>
+               <dateline>From Newgate, and Woodſtreet Compter, <date>this 5th of the 10th Month, 1684</date>.</dateline>
+               <signed>Your Suffering Friends and Wellwiſhers.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <head>ADVERTISEMENT.</head>
+            <p>THis precedent Application was delivered to the Lord Mayor the 5. of the 10. mo. 1684. and alſo a Letter to the Recorder of the ſame import, the 6th ditto. To which may be added, that the Indictments againſt our Aſſemblies for being <hi>Routous, Unlawful, with Force and Arms,</hi> &amp;c. we con<g ref="char:EOLhyphen"/>ceiving to be in the ſame Terms as Indictments are framed againſt Perſons aſſembled and moving for<g ref="char:EOLhyphen"/>ward in a Routous manner, with Intention to commit ſome <hi>Riot</hi> or <hi>Unlawful Act</hi> with Force, to the injury or hurt of the Neighbours, their Perſons or Poſſeſſions: Whenas our Aſſemblies are clear both from any ſuch <hi>Injurious Intention, Motion</hi> or <hi>Action,</hi> as well as <hi>Armed Force,</hi> for we appear with no Weapons nor Force; and therefore do ſtill queſtion, how theſe can rationally hold parallel in Fact, or be equally puniſht in point of Juſtice, Common Law or Equity.</p>
+            <p>
+               <hi>And further, our Aſſembling being with Intention to Worſhip Almighty God in Spirit &amp; Truth waiting on him &amp; therein to pray to &amp; praiſe him. This the Holy Scriptures Warrants &amp; Requires, &amp; conſequent<g ref="char:EOLhyphen"/>ly the</hi> Liturgy <hi>of the</hi> Church of England, <hi>by requiring the reading and practice of Holy Scripture; and ex<g ref="char:EOLhyphen"/>preſly, Whereas on</hi> St. Matthias Day, Act. 1. <hi>is cited, where its ſaid,</hi> In thoſe days <hi>Peter</hi> ſtoot up, &amp;c. The number of the Names that were together, were about 120, and they continued with one accord<g ref="char:EOLhyphen"/>in Prayer and Supplication, v. 14, <hi>And alſo on</hi> Good Friday, <hi>Epiſt. Hebr. 10. 24, 25. is cited in the</hi> Liturgy, <hi>viz.</hi> Let's conſider one another, to provoke one another unto Love and good Works, not for ſaking the Aſſemblies of our ſelves together, as the manner of ſome is, but let's exhort one another, and that ſo much the more, becauſe you ſee the day approaching. And John 4. (Liturgy, <hi>2d Leſſon to be read at Morn<g ref="char:EOLhyphen"/>ing Prayer, in</hi> March 17. <hi>and</hi> July <hi>16. viz. obſerve,</hi>) v. 21. Jeſus ſaith unto her, Woman, believe me, the hour cometh when ye ſhall neither in this Mountain, nor yet at Jeruſalens, Worſhip the Father, v. 2 3. But the hour cometh, and now is, when the true Worſhippers ſhall worſhip the Father in Spirit and in Truth; for the Father ſeekith ſuch to worſhip him. v. 24. God is a Spirit, and they that worſhip him, muſt wor<g ref="char:EOLhyphen"/>ſhip in Spirit and in Truth. <hi>1 Cor. 14. appointed for the 2d Leſſon at Evening Prayer in</hi> May 31. <hi>and</hi> Sept. 29. <hi>in which are theſe Inſtances.</hi> V. 14, But if all Propheſy, and there come in one that believeth not, or one Unlearned, he is Convinced of all, he is Judged of all. v. 25. And thus are the Secrets of Li<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Heart made manifeſt, and ſo falling down on his Face, he will Worſhip God, and report that God is n you of a Truth, V. 26. How is it then Brethren, when you come together, every one of yon hath a Pſalm, hath a Doctrine, hath a Tongue, hath a Revelation, hath an Interpretation; let all things he done to Edify<g ref="char:EOLhyphen"/>ing. v. 29. Let the Prophers ſpeak, two or three, and let the other Judge. v. 30. If any thing be re<g ref="char:EOLhyphen"/>vealed to another that ſits by, let the firſt hold his peace. v. 31. For ye may all Propheſy one by one, that all may Learn, and all may be Comforted. V. 32. And the Spirits of the Prophets are ſubject to the Pro<g ref="char:EOLhyphen"/>phets. v 33. For God is not the Author of Confuſion, but of Peace, at in all the Churches of the Saints; <hi>thus for the</hi> Liturgy.</p>
+            <p>And this was good Order in the True Chriſtian Church, &amp;c. with many more Inſtances that might be produced to juſtifie our Practice, and what we Profeſs or Pretend, both as to the Matter and Maner of Religious Exerciſe and Worſhip.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
